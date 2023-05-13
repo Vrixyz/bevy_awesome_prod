@@ -15,6 +15,12 @@ My curated list of projects using bevy in production, preferably with a company 
 - https://nebulae.world: MMO Strategy
 - https://app.axieinfinity.com/games/homeland-alpha/: Simulation RPG
 
+# Uncategorized
+:shrug:
+- https://www.encultured.ai/
+- https://meetkai.com/
+- https://www.metabuild.de/
+
 # Promising
 Those are not quite ready to be in this list yet, but I believe they could be at some point.
 
