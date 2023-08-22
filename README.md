@@ -32,3 +32,4 @@ Those are not quite ready to be in this list yet, but I believe they could be at
 - SpicyLobster
   - [Jumpy](https://fishfolk.org/games/jumpy/): tactical 2D shooter from [Fish Folk](https://fishfolk.org/)
   - [Thetawave](https://metalmancy.itch.io/thetawave): open-source space shooter
+- [Starwolves](https://gitlab.starwolves.io/starwolves/space): online multiplayer galaxy
