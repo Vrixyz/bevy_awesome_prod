@@ -2,7 +2,7 @@
 My curated list of projects using bevy in production, preferably with a company or a business model in mind.
 
 # Native
-- [Foresight Mining](https://www.foresightmining.com/): 
+- [Foresight Mining](https://www.foresightmining.com/): modelling, terrain/underground visualization
 - [Molecoole](https://store.steampowered.com/app/1792170/Molecoole/): action shooter roguelike
 - [Systemfault](https://www.lightsout.games/systemfault): audio only tactical shoot 'em up
 - [Storyteller](https://storyteller.ai/): film tool
