@@ -18,8 +18,6 @@ My curated list of projects using bevy in production, preferably with a company 
 # Miscellaneous
 - [Dr Luke](https://github.com/DrLuke): music DJ (or "VJ"), bevy used for visualization + parameter controls
 
-# ECS
-
 # Uncategorized
 :shrug: Those mentionned bevy in public blog posts, discussions or job openings:
 - https://www.encultured.ai/
