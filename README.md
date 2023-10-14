@@ -38,4 +38,5 @@ Those are not quite ready to be in this list yet, but I believe they could be at
   - [Thetawave](https://metalmancy.itch.io/thetawave): open-source space shooter
 - [Starwolves](https://gitlab.starwolves.io/starwolves/space): online multiplayer galaxy
 - [Hytopia](https://hytopia.com/): minecraft-like with cryptocurrencies
+- https://buttondown.email/oneplanet/archive/one-planet-a-climate-strategy-game/
 - https://puzzled-squid.itch.io/tunnet/devlog/580255/devlog-2-optimizations
