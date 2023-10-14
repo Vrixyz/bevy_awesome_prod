@@ -21,7 +21,7 @@ My curated list of projects using bevy in production, preferably with a company 
 # ECS
 
 # Uncategorized
-:shrug:
+:shrug: Those mentionned bevy in public blog posts, discussions or job openings:
 - https://www.encultured.ai/
 - https://meetkai.com/
 - https://www.metabuild.de/
