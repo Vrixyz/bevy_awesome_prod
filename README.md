@@ -1,5 +1,5 @@
 # bevy_awesome_prod
-My curated list of projects using bevy in production, preferably with a company or a business model in mind.
+My curated list of projects using bevy in production[^1], preferably with a company or a business model in mind.
 
 # Native
 - [Foresight Mining](https://www.foresightmining.com/): modelling, terrain/underground visualization
@@ -26,7 +26,7 @@ My curated list of projects using bevy in production, preferably with a company 
 - https://www.metabuild.de/
 
 # Promising
-Those are not quite ready to be in this list yet, but I believe they could be at some point.
+Those are not quite ready to be in this list yet[^2], but I believe they could be at some point.
 
 - [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/): small relaxing game about doodling castles. (bevy_ecs, custom renderer)
 - [PressingThumbs](https://www.pressingthumbs.com/newsletter/): an unnamed city builder, hitting steam "when it's ready", dev started in bevy 0.4
@@ -39,3 +39,6 @@ Those are not quite ready to be in this list yet, but I believe they could be at
 - [Hytopia](https://hytopia.com/): minecraft-like with cryptocurrencies
 - https://buttondown.email/oneplanet/archive/one-planet-a-climate-strategy-game/
 - https://puzzled-squid.itch.io/tunnet/devlog/580255/devlog-2-optimizations
+
+[^1]: Projects money-oriented are more easily evaluated, but entertainment or innovation might convince me
+[^2]: This list is edited manually, I'm open to discussions in pull requests or issues.
