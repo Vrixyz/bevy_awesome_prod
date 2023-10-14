@@ -9,6 +9,7 @@ My curated list of projects using bevy in production, preferably with a company 
 
 # Mobile
 - https://noumenal.app/: 3D modeling app
+- https://apps.apple.com/us/app/sudoku-pi/id6467504425: sudoku
 - https://apps.apple.com/app/id1670037131: ping pong game
 
 # Backend
