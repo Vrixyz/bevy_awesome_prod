@@ -15,6 +15,9 @@ My curated list of projects using bevy in production, preferably with a company 
 - https://nebulae.world: MMO Strategy
 - https://app.axieinfinity.com/games/homeland-alpha/: Simulation RPG
 
+# Miscellaneous
+- [Dr Luke](https://github.com/DrLuke): music DJ (or "VJ"), bevy used for visualization + parameter controls
+
 # ECS
 
 # Uncategorized
