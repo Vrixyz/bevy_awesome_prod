@@ -32,6 +32,7 @@ Those are not quite ready to be in this list yet[^2], but I believe they could b
 
 - [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/): small relaxing game about doodling castles. (bevy_ecs, custom renderer)
 - [Times of Progress](https://store.steampowered.com/app/2628450/Times_of_Progress/): A City Builder set during the Industrial Revolution
+- [Jarl](https://www.jarl-game.com/): Fzntasy colony builder
 - [Emergence](https://github.com/leafwing-studios/emergence): organic factory-builder at a micro scale
 - [Playroids](https://playroids.com/): PVE/Co-Op game about resource extraction and survival in space
 - [Satus](https://www.re3studios.com/) ([https://twitter.com/TheRe3Studios](https://twitter.com/TheRe3Studios)): sand-boxed settlement management sim ; backend bevy, front is unity 
