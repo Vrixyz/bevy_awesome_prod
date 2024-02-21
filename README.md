@@ -24,11 +24,10 @@ My curated list of projects using bevy in production[^1], preferably with a comp
 # Uncategorized
 :shrug: Those mentionned bevy in public blog posts, discussions or job openings:
 - https://www.encultured.ai/
-- https://meetkai.com/
 - https://www.metabuild.de/
 
 # Promising
-Those are not quite ready to be in this list yet[^2], but I believe they could be at some point.
+Those are not "in production" yet[^2], but I believe they could be at some point.
 
 - [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/): small relaxing game about doodling castles. (bevy_ecs, custom renderer)
 - [Times of Progress](https://store.steampowered.com/app/2628450/Times_of_Progress/): A City Builder set during the Industrial Revolution
@@ -43,6 +42,7 @@ Those are not quite ready to be in this list yet[^2], but I believe they could b
 - [Hytopia](https://hytopia.com/): minecraft-like with cryptocurrencies
 - https://buttondown.email/oneplanet/archive/one-planet-a-climate-strategy-game/
 - https://puzzled-squid.itch.io/tunnet/devlog/580255/devlog-2-optimizations
+
 
 [^1]: Projects money-oriented are more easily evaluated, but entertainment or innovation might convince me
 [^2]: This list is edited manually, I'm open to discussions in pull requests or issues.
