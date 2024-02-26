@@ -5,7 +5,6 @@ My curated list of projects using bevy in production[^1], preferably with a comp
 - [Foresight Mining](https://www.foresightmining.com/): modelling, terrain/underground visualization
 - [Molecoole](https://store.steampowered.com/app/1792170/Molecoole/): action shooter roguelike
 - [Systemfault](https://www.lightsout.games/systemfault): audio only tactical shoot 'em up
-- [Storyteller](https://storyteller.ai/): film tool
 - [Tunnet](https://store.steampowered.com/app/2286390/Tunnet/): Builder adventure ; uses a custom renderer on top of bevy ecs.
 
 # Mobile
@@ -32,6 +31,7 @@ Those are not "in production" yet[^2], but I believe they could be at some point
 - [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/): small relaxing game about doodling castles. (bevy_ecs, custom renderer)
 - [Times of Progress](https://store.steampowered.com/app/2628450/Times_of_Progress/): A City Builder set during the Industrial Revolution
 - [Jarl](https://www.jarl-game.com/): Fantasy colony builder
+- [Storyteller](https://storyteller.ai/): film tool
 - [Emergence](https://github.com/leafwing-studios/emergence): organic factory-builder at a micro scale
 - [Playroids](https://playroids.com/): PVE/Co-Op game about resource extraction and survival in space
 - [Satus](https://www.re3studios.com/) ([https://twitter.com/TheRe3Studios](https://twitter.com/TheRe3Studios)): sand-boxed settlement management sim ; backend bevy, front is unity 
