@@ -12,6 +12,7 @@ My curated list of projects using bevy in production[^1], preferably with a comp
 - https://apps.apple.com/us/app/sudoku-pi/id6467504425: sudoku
 - https://apps.apple.com/us/app/picmatch-game/id6450262296: doodle-like
 - https://apps.apple.com/app/id1670037131: ping pong game
+- https://apps.apple.com/app/id6478646325: CATS MELON, a merge game
 
 # Backend
 - https://nebulae.world: MMO Strategy
