@@ -42,7 +42,6 @@ Those are not "in production" yet[^2], but I believe they could be at some point
 - [Starwolves](https://gitlab.starwolves.io/starwolves/space): online multiplayer galaxy
 - [Hytopia](https://hytopia.com/): minecraft-like with cryptocurrencies
 - https://buttondown.email/oneplanet/archive/one-planet-a-climate-strategy-game/
-- https://puzzled-squid.itch.io/tunnet/devlog/580255/devlog-2-optimizations
 
 
 [^1]: Projects money-oriented are more easily evaluated, but entertainment or innovation might convince me
