@@ -13,6 +13,7 @@ My curated list of projects using bevy in production[^1], preferably with a comp
 - https://apps.apple.com/us/app/picmatch-game/id6450262296: doodle-like
 - https://apps.apple.com/app/id1670037131: ping pong game
 - https://apps.apple.com/fr/app/cats-melon/id6478646325?l=en-GB: merge game with cats
+- https://play.google.com/store/apps/details?id=studio.headless.goconquer: "Beginner" Go
 
 # Backend
 - https://nebulae.world: MMO Strategy
