@@ -16,6 +16,8 @@ My curated list of projects using bevy in production[^1], preferably with a comp
 - Headless Studio
   - https://play.google.com/store/apps/details?id=studio.headless.goconquer: "Beginner" Go
   - https://play.google.com/store/apps/details?id=studio.headless.nagan: Educational games
+- https://apps.apple.com/app/zoolitaire/id6479218498: Peg Solitaire but with cute zoo animals
+ 
 # Backend
 - https://nebulae.world: MMO Strategy
 - https://app.axieinfinity.com/games/homeland/: Simulation RPG
