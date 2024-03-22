@@ -22,6 +22,9 @@ My curated list of projects using bevy in production[^1], preferably with a comp
 - https://nebulae.world: MMO Strategy
 - https://app.axieinfinity.com/games/homeland/: Simulation RPG
 
+# Research
+- [Shu](https://doi.org/10.1093/bioinformatics/btae140): visualization of high-dimensional biological pathways
+
 # Miscellaneous
 - [Dr Luke](https://github.com/DrLuke): music DJ (or "VJ"), bevy used for visualization + parameter controls
 
