@@ -6,7 +6,7 @@ My curated list of projects using bevy in production[^1], preferably with a comp
 - [Molecoole](https://store.steampowered.com/app/1792170/Molecoole/): action shooter roguelike
 - [Systemfault](https://www.lightsout.games/systemfault): audio only tactical shoot 'em up
 - [Tunnet](https://store.steampowered.com/app/2286390/Tunnet/): Builder adventure ; uses a custom renderer on top of bevy ecs.
-
+- [Glow](https://store.steampowered.com/app/2896110/GLOW/): Physics based arcade game
 # Mobile
 - https://noumenal.app/: 3D modeling app
 - https://apps.apple.com/app/geoguessr/id1049876497: (Geoguessr) bevy used for 3d rendering
