@@ -8,17 +8,18 @@ My curated list of projects using bevy in production[^1], preferably with a comp
 - [Tunnet](https://store.steampowered.com/app/2286390/Tunnet/): Builder adventure ; uses a custom renderer on top of bevy ecs.
 - [Glow](https://store.steampowered.com/app/2896110/GLOW/): Physics based arcade game
 # Mobile
-- https://noumenal.app/: 3D modeling app
-- https://apps.apple.com/app/geoguessr/id1049876497: (Geoguessr) bevy used for 3d rendering
-- https://apps.apple.com/us/app/sudoku-pi/id6467504425: sudoku
-- https://apps.apple.com/us/app/picmatch-game/id6450262296: doodle-like
-- https://apps.apple.com/app/id1670037131: ping pong game
-- https://apps.apple.com/fr/app/cats-melon/id6478646325?l=en-GB: merge game with cats
+- [Noumenal](https://noumenal.app/): 3D modeling app
+- [Geoguessr](https://apps.apple.com/app/geoguessr/id1049876497): bevy used for 3d rendering
+- [Sudoku Pi](https://apps.apple.com/us/app/sudoku-pi/id6467504425): sudoku
+- [Picmatch Game](https://apps.apple.com/us/app/picmatch-game/id6450262296): doodle-like
+- [Table Tennis PPWW](https://apps.apple.com/app/id1670037131): ping pong game
+- [Cats melon](https://apps.apple.com/fr/app/cats-melon/id6478646325): merge game with cats
 - Headless Studio
-  - https://play.google.com/store/apps/details?id=studio.headless.goconquer: "Beginner" Go
-  - https://play.google.com/store/apps/details?id=studio.headless.nagan: Educational games
-  - https://play.google.com/store/apps/details?id=studio.headless.voltum: a twist to the 'drop'game
-- https://apps.apple.com/app/zoolitaire/id6479218498: Peg Solitaire but with cute zoo animals
+  - [GoConquer](https://play.google.com/store/apps/details?id=studio.headless.goconquer): "Beginner" Go
+  - [Nagan](https://play.google.com/store/apps/details?id=studio.headless.nagan): Educational games
+  - [voltum](https://play.google.com/store/apps/details?id=studio.headless.voltum): a twist to the 'drop'game
+- [zoolitaire](https://apps.apple.com/app/zoolitaire/id6479218498): Peg Solitaire but with cute zoo animals
+- [Membooster](https://apps.apple.com/gb/app/membooster/id6478470117)
  
 # Backend
 - https://nebulae.world: MMO Strategy
