@@ -33,9 +33,10 @@ My curated list of projects using bevy in production[^1], preferably with a comp
 - [Dr Luke](https://github.com/DrLuke): music DJ (or "VJ"), bevy used for visualization + parameter controls
 
 # Uncategorized
-:shrug: Those mentionned bevy in public blog posts, discussions or job openings:
+:shrug: Those mentionned bevy in public blog posts, discussions, conferences or job openings:
 - https://www.encultured.ai/
 - https://www.metabuild.de/
+- https://www.airbus.com: bevy shoutout from this talk: https://www.youtube.com/watch?v=XLefuzE-ABU&t=3898s
 
 # Promising
 Those are not "in production" yet[^2], but I believe they could be at some point.
