@@ -53,6 +53,7 @@ Those are not "in production" yet[^2], but I believe they could be at some point
   - [Thetawave](https://metalmancy.itch.io/thetawave): open-source space shooter
 - [Starwolves](https://gitlab.starwolves.io/starwolves/space): online multiplayer galaxy
 - [Hytopia](https://hytopia.com/): minecraft-like with cryptocurrencies
+- [Unhaunter](https://github.com/deavid/unhaunter/): Atmospheric isometric ghost hunting
 - https://buttondown.email/oneplanet/archive/one-planet-a-climate-strategy-game/
 
 
