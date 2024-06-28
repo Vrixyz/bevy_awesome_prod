@@ -7,7 +7,7 @@ My curated list of projects using bevy in production[^1], preferably with a comp
 - [Systemfault](https://www.lightsout.games/systemfault): audio only tactical shoot 'em up
 - [Tunnet](https://store.steampowered.com/app/2286390/Tunnet/): Builder adventure ; uses a custom renderer on top of bevy ecs.
 - [Glow](https://store.steampowered.com/app/2896110/GLOW/): Physics based arcade game
-- [GunBug](https://gunbug.xyz/): 2D online co-op horde survival shoot'em up.
+
 # Mobile
 - [Noumenal](https://noumenal.app/): 3D modeling app
 - [Geoguessr](https://apps.apple.com/app/geoguessr/id1049876497): bevy used for 3d rendering
@@ -45,6 +45,7 @@ Those are not "in production" yet[^2], but I believe they could be at some point
 - [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/): small relaxing game about doodling castles. (bevy_ecs, custom renderer)
 - [Times of Progress](https://store.steampowered.com/app/2628450/Times_of_Progress/): A City Builder set during the Industrial Revolution
 - [Jarl](https://www.jarl-game.com/): Fantasy colony builder
+- [GunBug](https://gunbug.xyz/): 2D online co-op horde survival shoot'em up.
 - [Storyteller](https://storyteller.ai/): film tool
 - [Emergence](https://github.com/leafwing-studios/emergence): organic factory-builder at a micro scale
 - [Playroids](https://playroids.com/): PVE/Co-Op game about resource extraction and survival in space
