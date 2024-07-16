@@ -38,6 +38,7 @@ My curated list of projects using bevy in production[^1], preferably with a comp
 - https://www.encultured.ai/
 - https://www.metabuild.de/
 - https://www.airbus.com: bevy shoutout from this talk: https://www.youtube.com/watch?v=XLefuzE-ABU&t=3898s
+- https://taongafarm.com/en/: bevy mentioned in job offers
 
 # Promising
 Those are not "in production" yet[^2], but I believe they could be at some point.
