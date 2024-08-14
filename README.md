@@ -41,7 +41,7 @@ My curated list of projects using bevy in production[^1], preferably with a comp
 - https://taongafarm.com/en/: bevy mentioned in job offers
 
 # Promising
-Those are not "in production" yet[^2], but I believe they could be at some point.
+Those are not "in production" yet[^2], but I believe they will be at some point.
 
 - [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/): small relaxing game about doodling castles. (bevy_ecs, custom renderer)
 - [Times of Progress](https://store.steampowered.com/app/2628450/Times_of_Progress/): A City Builder set during the Industrial Revolution
@@ -57,6 +57,7 @@ Those are not "in production" yet[^2], but I believe they could be at some point
 - [Starwolves](https://gitlab.starwolves.io/starwolves/space): online multiplayer galaxy
 - [Hytopia](https://hytopia.com/): minecraft-like with cryptocurrencies
 - [Unhaunter](https://github.com/deavid/unhaunter/): Atmospheric isometric ghost hunting
+- [Mega_Giga_Cookie_Destroyer_TD](https://store.steampowered.com/app/2283070/Mega_Giga_Cookie_Destroyer_TD/) : Tower defense with cookies
 - https://buttondown.email/oneplanet/archive/one-planet-a-climate-strategy-game/
 
 
