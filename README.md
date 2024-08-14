@@ -57,7 +57,7 @@ Those are not "in production" yet[^2], but I believe they will be at some point.
 - [Starwolves](https://gitlab.starwolves.io/starwolves/space): online multiplayer galaxy
 - [Hytopia](https://hytopia.com/): minecraft-like with cryptocurrencies
 - [Unhaunter](https://github.com/deavid/unhaunter/): Atmospheric isometric ghost hunting
-- [Mega_Giga_Cookie_Destroyer_TD](https://store.steampowered.com/app/2283070/Mega_Giga_Cookie_Destroyer_TD/) : Tower defense with cookies
+- [Mega Giga Cookie Destroyer TD](https://store.steampowered.com/app/2283070/Mega_Giga_Cookie_Destroyer_TD/) : Tower defense with cookies
 - https://buttondown.email/oneplanet/archive/one-planet-a-climate-strategy-game/
 
 
