@@ -33,6 +33,9 @@ My curated list of projects using bevy in production[^1], preferably with a comp
 # Miscellaneous
 - [Dr Luke](https://github.com/DrLuke): music DJ (or "VJ"), bevy used for visualization + parameter controls
 
+# Programming challenges:
+- [corCTF 2024](https://ctftime.org/event/2282/): https://github.com/Crusaders-of-Rust/cormine
+
 # Uncategorized
 :shrug: Those mentionned bevy in public blog posts, discussions, conferences or job openings:
 - https://www.encultured.ai/
