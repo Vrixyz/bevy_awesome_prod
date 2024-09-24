@@ -8,6 +8,8 @@ My curated list of projects using bevy in production[^1], preferably with a comp
 - [Tunnet](https://store.steampowered.com/app/2286390/Tunnet/): Builder adventure ; uses a custom renderer on top of bevy ecs.
 - [Glow](https://store.steampowered.com/app/2896110/GLOW/): Physics based arcade game
 - [HackeRPG](https://store.steampowered.com/app/2671770/HackeRPG/): coding-based top-down arena roguelite
+- [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/): small relaxing game about doodling castles. (bevy_ecs, custom renderer)
+
 # Mobile
 - [Noumenal](https://noumenal.app/): 3D modeling app
 - [Geoguessr](https://apps.apple.com/app/geoguessr/id1049876497): bevy used for 3d rendering
@@ -46,7 +48,6 @@ My curated list of projects using bevy in production[^1], preferably with a comp
 # Promising
 Those are not "in production" yet[^2], but I believe they will be at some point.
 
-- [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/): small relaxing game about doodling castles. (bevy_ecs, custom renderer)
 - [Times of Progress](https://store.steampowered.com/app/2628450/Times_of_Progress/): A City Builder set during the Industrial Revolution
 - [Jarl](https://www.jarl-game.com/): Fantasy colony builder
 - [GunBug](https://gunbug.xyz/): 2D online co-op horde survival shoot'em up.
