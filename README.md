@@ -54,7 +54,8 @@ Those are not "in production" yet[^2], but I believe they will be at some point.
 - [Storyteller](https://storyteller.ai/): film tool
 - [Emergence](https://github.com/leafwing-studios/emergence): organic factory-builder at a micro scale
 - [Playroids](https://playroids.com/): PVE/Co-Op game about resource extraction and survival in space
-- [Satus](https://www.re3studios.com/) ([https://twitter.com/TheRe3Studios](https://twitter.com/TheRe3Studios)): sand-boxed settlement management sim ; backend bevy, front is unity 
+- [Satus](https://www.re3studios.com/) ([https://twitter.com/TheRe3Studios](https://twitter.com/TheRe3Studios)): sand-boxed settlement management sim ; backend bevy, front is unity
+- [Untold dawn](https://blog.untold-dawn.com/): Roleplay required text-based multiplayer game
 - SpicyLobster
   - [Jumpy](https://fishfolk.org/games/jumpy/): tactical 2D shooter from [Fish Folk](https://fishfolk.org/)
   - [Thetawave](https://metalmancy.itch.io/thetawave): open-source space shooter
