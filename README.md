@@ -10,6 +10,7 @@ My curated list of projects using bevy in production[^1], preferably with a comp
 - [HackeRPG](https://store.steampowered.com/app/2671770/HackeRPG/): coding-based top-down arena roguelite
 - [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/): small relaxing game about doodling castles. (bevy_ecs, custom renderer)
 - [Death Trip](https://store.steampowered.com/app/2909010/DEATHTRIP/): stylish, high-octane FPS
+- [Nominal](https://nominal.io/): Analysis tools and real-time observability for mission-critical engineering work.
 
 # Mobile
 - [Noumenal](https://noumenal.app/): 3D modeling app
