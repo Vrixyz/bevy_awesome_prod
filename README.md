@@ -1,7 +1,9 @@
 # bevy_awesome_prod
+
 My curated list of projects using bevy in production[^1], preferably with a company or a business model in mind.
 
-# Native
+# Native or web
+
 - [Foresight Mining](https://www.foresightmining.com/): modelling, terrain/underground visualization
 - [Molecoole](https://store.steampowered.com/app/1792170/Molecoole/): action shooter roguelike
 - [Systemfault](https://www.lightsout.games/systemfault): audio only tactical shoot 'em up
@@ -16,6 +18,7 @@ My curated list of projects using bevy in production[^1], preferably with a comp
 - [Intrinsic.ai Flowstate](https://www.intrinsic.ai/flowstate): AI + robotics. Owned by Alphabet.
 
 # Mobile
+
 - [Noumenal](https://noumenal.app/): 3D modeling app
 - [Geoguessr](https://apps.apple.com/app/geoguessr/id1049876497): bevy used for 3d rendering
 - [Sudoku Pi](https://apps.apple.com/us/app/sudoku-pi/id6467504425): sudoku
@@ -31,19 +34,24 @@ My curated list of projects using bevy in production[^1], preferably with a comp
 - [UFO snowboard](https://apps.apple.com/us/app/ufo-snowboard/id6474542185): 2d speed platformer
  
 # Backend
+
 - https://nebulae.world: MMO Strategy
 - https://app.axieinfinity.com/games/homeland/: Simulation RPG
 
 # Research
+
 - [Shu](https://doi.org/10.1093/bioinformatics/btae140): visualization of high-dimensional biological pathways
 
 # Miscellaneous
+
 - [Dr Luke](https://github.com/DrLuke): music DJ (or "VJ"), bevy used for visualization + parameter controls
 
 # Programming challenges:
+
 - [corCTF 2024](https://ctftime.org/event/2282/): https://github.com/Crusaders-of-Rust/cormine
 
 # Uncategorized
+
 :shrug: Those mentionned bevy in public blog posts, discussions, conferences or job openings:
 - https://www.encultured.ai/
 - https://www.metabuild.de/
@@ -51,6 +59,7 @@ My curated list of projects using bevy in production[^1], preferably with a comp
 - https://taongafarm.com/en/: bevy mentioned in job offers
 
 # Promising
+
 Those are not "in production" yet[^2], but I believe they will be at some point.
 
 - [Times of Progress](https://store.steampowered.com/app/2628450/Times_of_Progress/): A City Builder set during the Industrial Revolution
@@ -72,5 +81,5 @@ Those are not "in production" yet[^2], but I believe they will be at some point.
 - https://buttondown.email/oneplanet/archive/one-planet-a-climate-strategy-game/
 
 
-[^1]: Projects money-oriented are more easily evaluated, but entertainment or innovation might convince me
+[^1]: Projects money-oriented are more easily evaluated, but entertainment or innovation might convince me.
 [^2]: This list is edited manually, I'm open to discussions in pull requests or issues.
