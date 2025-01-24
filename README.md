@@ -13,6 +13,7 @@ My curated list of projects using bevy in production[^1], preferably with a comp
 - [Nominal](https://nominal.io/): Analysis tools and real-time observability for mission-critical engineering work.
 - [Manufact](https://manufact.au/): CNC cycle times computing.
 - [Skybox edge](https://skybox.gg/edge/): counter-strike games visualization.
+- [Intrinsic.ai Flowstate](https://www.intrinsic.ai/flowstate): AI + robotics. Owned by Alphabet.
 
 # Mobile
 - [Noumenal](https://noumenal.app/): 3D modeling app
