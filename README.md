@@ -12,6 +12,7 @@ My curated list of projects using bevy in production[^1], preferably with a comp
 - [Death Trip](https://store.steampowered.com/app/2909010/DEATHTRIP/): stylish, high-octane FPS
 - [Nominal](https://nominal.io/): Analysis tools and real-time observability for mission-critical engineering work.
 - [Manufact](https://manufact.au/): CNC cycle times computing.
+- [Skybox edge](https://skybox.gg/edge/): counter-strike games visualization.
 
 # Mobile
 - [Noumenal](https://noumenal.app/): 3D modeling app
