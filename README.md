@@ -67,7 +67,6 @@ Those are not "in production" yet[^2], but I believe they will be at some point.
 - [GunBug](https://gunbug.xyz/): 2D online co-op horde survival shoot'em up.
 - [Storyteller](https://storyteller.ai/): film tool
 - [Sentinels Inc.](https://store.steampowered.com/app/2302620/Sentinels_Inc): Online tag team platform fighting game.
-- [Emergence](https://github.com/leafwing-studios/emergence): organic factory-builder at a micro scale
 - [Playroids](https://playroids.com/): PVE/Co-Op game about resource extraction and survival in space
 - [Satus](https://www.re3studios.com/) ([https://twitter.com/TheRe3Studios](https://twitter.com/TheRe3Studios)): sand-boxed settlement management sim ; backend bevy, front is unity
 - [Untold dawn](https://blog.untold-dawn.com/): Roleplay required text-based multiplayer game
