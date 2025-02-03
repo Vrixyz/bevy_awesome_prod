@@ -16,6 +16,7 @@ My curated list of projects using bevy in production[^1], preferably with a comp
 - [Manufact](https://manufact.au/): CNC cycle times computing.
 - [Skybox edge](https://skybox.gg/edge/): counter-strike games visualization.
 - [Intrinsic.ai Flowstate](https://www.intrinsic.ai/flowstate): AI + robotics. Owned by Alphabet.
+- [Crystal Realms](https://crystalrealmsgame.com/): MMO with crafting and quests. Also on android (and soon™️ iOS).
 
 # Mobile
 
