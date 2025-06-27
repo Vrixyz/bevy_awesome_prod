@@ -10,7 +10,9 @@ My curated list of projects using bevy in production[^1], preferably with a comp
 - [Tunnet](https://store.steampowered.com/app/2286390/Tunnet/): Builder adventure ; uses a custom renderer on top of bevy ecs.
 - [Glow](https://store.steampowered.com/app/2896110/GLOW/): Physics based arcade game
 - [HackeRPG](https://store.steampowered.com/app/2671770/HackeRPG/): coding-based top-down arena roguelite
-- [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/): small relaxing game about doodling castles. (bevy_ecs, custom renderer)
+- [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/): Relaxing game about doodling castles. (bevy_ecs, custom renderer)
+- [LongStory 2]( https://store.steampowered.com/app/2427820/LongStory_2): Friendliest dating sim on the planet: Sequel to the award-winning visual novel LongStory
+- [Gob Johnson's Downhill Marmalade](https://store.steampowered.com/app/3329170/Gob_Johnsons_Downhill_Marmalade/): Fast-paced slalom 'em up fantasy roguelite
 - [Death Trip](https://store.steampowered.com/app/2909010/DEATHTRIP/): stylish, high-octane FPS
 - [Nominal](https://nominal.io/): Analysis tools and real-time observability for mission-critical engineering work.
 - [Manufact](https://manufact.au/): CNC cycle times computing.
