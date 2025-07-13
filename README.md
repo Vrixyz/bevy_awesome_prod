@@ -4,6 +4,7 @@ My curated list of projects using bevy in production[^1], preferably with a comp
 
 # Native or web
 
+- [Exoframe](https://exofactory.net/): Factory Automation Game with choice-driven Mechanics
 - [Foresight Mining](https://www.foresightmining.com/): modelling, terrain/underground visualization
 - [Molecoole](https://store.steampowered.com/app/1792170/Molecoole/): action shooter roguelike
 - [Systemfault](https://www.lightsout.games/systemfault): audio only tactical shoot 'em up
